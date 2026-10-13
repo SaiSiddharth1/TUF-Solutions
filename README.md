@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **6** | 0 | 6 | 0 | `2026-10-09` |
+| **7** | 0 | 7 | 0 | `2026-10-13` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (6)
+### DSA (7)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -20,10 +20,11 @@
 | 0002 | [118. Bellman ford algorithm](./DSA/General/bellman-ford-algorithm) | [JAVA](./DSA/General/bellman-ford-algorithm/solution.java) | ⚪ Unspecified | `General` | `2026-10-09` |
 | 0003 | [399. Binary Tree Longest Consecutive Sequence
 POTD](./DSA/Trees/binary-tree-longest-consecutive-sequence) | [JAVA](./DSA/Trees/binary-tree-longest-consecutive-sequence/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-03` |
-| 0004 | [72. Meeting Rooms
+| 0004 | [127. Floyd warshall algorithm](./DSA/General/floyd-warshall-algorithm) | [JAVA](./DSA/General/floyd-warshall-algorithm/solution.java) | ⚪ Unspecified | `General` | `2026-10-13` |
+| 0005 | [72. Meeting Rooms
 POTD](./DSA/General/meeting-rooms) | [JAVA](./DSA/General/meeting-rooms/solution.java) | ⚪ Unspecified | `General` | `2026-10-02` |
-| 0005 | [857. Minimum multiplications to reach end](./DSA/General/minimum-multiplications-to-reach-end) | [JAVA](./DSA/General/minimum-multiplications-to-reach-end/solution.java) | ⚪ Unspecified | `General` | `2026-10-02` |
-| 0006 | [896. Pattern 1](./DSA/General/pattern-1) | [JAVA](./DSA/General/pattern-1/solution.java) | ⚪ Unspecified | `General` | `2026-10-02` |
+| 0006 | [857. Minimum multiplications to reach end](./DSA/General/minimum-multiplications-to-reach-end) | [JAVA](./DSA/General/minimum-multiplications-to-reach-end/solution.java) | ⚪ Unspecified | `General` | `2026-10-02` |
+| 0007 | [896. Pattern 1](./DSA/General/pattern-1) | [JAVA](./DSA/General/pattern-1/solution.java) | ⚪ Unspecified | `General` | `2026-10-02` |
 
 ---
 
